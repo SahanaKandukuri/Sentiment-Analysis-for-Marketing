@@ -7,12 +7,12 @@ library(wordcloud)
 library(tm)
 library(slam) 
 
-data <- fread("~/Desktop/MS ES DS/sem2/SDM2/clean_data Prj.csv")
+data <- fread("~/clean_data.csv")
 pos_data <- data[data$sentiment == 'Positive']
 neut_data <- data[data$sentiment == 'Neutral']
 neg_data <- data[data$sentiment == 'Negative']
 
-acc <- fread('~/Desktop/MS ES DS/sem2/SDM2/acc.csv')
+acc <- fread('~/acc.csv')
 
 
 ui <- fluidPage(
