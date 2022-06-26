@@ -1,13 +1,13 @@
 # Sentiment-Analysis-for-Marketing
 Sentiment analysis is a strategy that uses natural language processing to extract insights from raw  text and comments, for example, to understand the sentiment of a customer/user. In this project, we are trying to enable companies to understand the scope of a product ahead of its launch, also provide insights based on previous customer reviews so marketing teams can better  design their marketing campaigns.
 
-# Problem Statement:
+### Problem Statement:
 Classification of the emotion behind the customer reviews is a tiresome work for the organizations and analyzing this sentiment helps the organization to  understand customer profiles better.
 
-# Outcomes and Features: 
+### Outcomes and Features: 
 Creating a sentiment score for each review on a product to generate scope and insights for businesses which can help in understanding the popularity of the product in the market. Creating an RShiny App that companies can use to understand the sentiment behind purchases made on their website.
 
-# Description of problem and details about dataset
+##### Description of problem and details about dataset
 Many companies are emerging every day in every industry. Whenever a company launches a new 
 product or a line of products, it is important for them to understand the customer’s sentiments 
 towards the said products. This will help the companies plan their product and marketing 
@@ -36,7 +36,7 @@ contains the review data between the years 2009 and 2014. It has 10261 reviews a
 8. unixReviewTime - time of the review (unix time)
 9. reviewTime - time of the review (raw)
 
-# Functionalities of the data science tool
+##### Functionalities of the data science tool
 The idea behind the functioning of our Data Science tool is to help Companies understand the current industry 
 trends, while also helping them understand scope/popularity of a product ahead of its launch, along with insights 
 on similar products based on customer reviews which can help marketing team design better ad campaigns. Here 
