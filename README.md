@@ -3,8 +3,8 @@ Sentiment analysis is a strategy that uses natural language processing to extrac
 
 ## Understanding the files:
 EDA.ipynb : Contains Exploratory Data Analysis, cleaning the data and creating a new data file for the RShiny App, a few basic ML models and their results<br>
-Musical_instruments.csv : The dataset for the problem
-clean_data.csv : Data obtained after EDA, preprocessing and cleaning
+Musical_instruments.csv : The dataset for the problem<br>
+clean_data.csv : Data obtained after EDA, preprocessing and cleaning<br>
 
 
 ## Problem Statement:
